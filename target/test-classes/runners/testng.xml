@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Data Driven Basics">
+    <test verbose="2" preserve-order="true" name="C:/Users/Verica/DataDrivenFramework/src/test/resources/runners"/>
+        <test name="LoginTest">
+        <classes>
+            <class name="rs.helloworld.testcases.LoginTest"/>
+        </classes>
+
+    </test>
+</suite>
+
